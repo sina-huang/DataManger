@@ -1,0 +1,3 @@
+redis
+websocket-client
+requests
